@@ -1,0 +1,139 @@
+Abhishek Pande
+Software Engineer – Product Development
+
+Email: 		abhishekpande@ymail.com 	|	LinkedIn: 	in.linkedin.com/in/pandeabhishek
+Phone: 	+91 9766486466		|	GitHub:	github.com/apfire
+
+Summary
+•	3 years of Experience in developing software for Institutional Asset Management domain.
+•	Experienced in Agile SCRUM model.
+•	Well acquainted with JAVA, MEAN stack, C#, and JavaScript technologies.
+•	Expertise in UI/UX development.
+•	Good understanding of Version Control, Build Automation and Continuous Integration processes and its tools.
+•	Can master new technologies, concepts or process very quickly. Ability to be productive in steepest learning curves.
+•	Proficient in Linux. 
+
+Achievements
+•	Vision award for contribution towards RichUI project
+•	Kudos award for Trust fees project
+•	Kudos award for converting MenuSync screen in record time.
+•	Kudos award for Application performance improvement.
+
+Education
+			Year		Score		Institution
+BSc CS		2011		58%		RTMNU Nagpur University
+MCA Engg		2014		9.35CPI	Vishwakarma Institute of Technology, Pune
+
+
+Projects
+1. Expense Cap 								Feb 2014 – Oct 2014
+
+Project summary
+Expense capping feature allows the fund manager to limit certain expense incurred through fund life cycle. The fund manager can define expense capping profile using UI screens. These profiles are used by the algorithm to monitor generated expense against capping criteria. Excess expenses incurred can be reverted into the fund.
+
+Responsibilities as Intern /Associate Software Engineer 
+1.	Design UI screens using YUI framework.
+2.	Implement screen functionalities with java and mainframe engine messaging.
+3.	Extend the functionality of existing screen to include results from Expense Cap calculation.
+4.	Develop several utilities around core functionality 
+5.	Design Automation script to compare results of new calculation framework with old method for validity and calculation accuracy.
+6.	Work with team to resolve issues and impediments
+7.	Assist in testing functionalities.
+
+
+Impact
+1.	Worked on several peripheral tasks which allowed rest of the team to work on core functionality.
+2.	Leveraged automation techniques which helped in speeding up the validation for calculation logic for complex cases. Automation Script could find the exact point of error in distributed calculation framework.
+
+
+2. CITI Ethical Hack remediation					Oct 2014 – Nov 2014
+
+Project summary
+This project remediates infraction identified in application from a third-party penetration test. Each infraction is categorized into High, Mid, and Low-level infraction. this project has focused on High and Mid-level infractions.   
+
+Responsibilities as Associate Software Engineer
+1.	Analyze application for reported infraction and its impact.
+2.	Find and implement the least impacting solution.
+3.	Write tools to identify instances of the generic infraction.
+4.	Test and deploy the application on dev instance.    
+
+Impact
+1.	The algorithm used in the tool helped reduce search time by 75%.	
+
+3. Trust Fees								Nov 2014 – Feb 2015
+
+Project summary
+Trust Fees adds functionality in Browser Expense Calculator that allows the fund manager to define expenses at trust level. These expenses are calculated at trust level and trickled down to fund level using an allocation algorithm. The project involved refactoring existing code to accommodate new business flow without affecting existing functionalities and adding new calculation logic.  
+
+Responsibilities as Associate Software Engineer
+1.	Implement new core calculation logic to allow expenses to be allocated to individual funds.
+2.	Refactor existing code to adopt new business logic.
+3.	Utilize code coverage tools to validate the integrity of code after refactoring.
+4.	Tweak calculation logic to improve performance with high volume data.
+5.	Performance testing application with different stress scenarios.
+6.	Assisted team in manual testing and test automation suite.
+
+Impact
+1.	Allocation algorithm (Tontine) was designed as a reusable component which was later reused in several other modules.
+2.	Performance tweaking helped to keep process time in an acceptable range even with additional processing load. 
+
+4. RichUI									Feb 2015 – April 2016
+
+Project summary
+RichUI was a strategic project with an initiative to move product from JSP based application to modern AngularJS platform. The project involved creating scaffold application with new technology stack, rewriting essential modules in AngularJS while other modules are made compatible with a new framework through a compatibility layer. The project required researching and developing widgets and tools to accommodate critical functionality into the new technology stack. 
+
+Responsibilities as Software Engineer
+1.	Designed several Off the shelf widgets. Assisted other teams in the adoption of these widgets.
+2.	Conducted POCs for tools and technology improvements.
+3.	Worked on several complex production issues.
+4.	Worked on Migrating various modules to new standards.
+5.	Assisted in creating development standards and guidelines for utilization of new technology framework.
+6.	Helped in creating a knowledge base for underlying framework and tools. Conducted many knowledge sharing and training sessions for the team and new joiners.
+
+Impact
+1.	Widgets were used by several teams without none or minimal design changes to fit their project requirement.
+2.	Developed a broad view of the system and underlying technologies which helped while designing solution for enhancements and complex issues.
+3.	Actively participated in design and review for enhancements. 
+4.	Designed tool to generate Screen Mockups and export working code into templates. This helped in Standardising screen designs and ensure quicker turnaround from design to code. 
+
+5. Application performance improvement (Part of RichUI project / Individual Contribution)
+          
+Project summary
+This project was completed as a part of RichUI project with a target to improve application performance. AngularJS based application loads data differently than existing JSP-based application causing performance lag in some processes though overall performance is better. The project involved identifying such processes and building infrastructure to improve performance.
+
+Responsibilities as Software Engineer
+1.	Analyzed application for possible performance improvement areas. RCA for performance lag.
+2.	Identify areas where the solution can be effectively implemented. Evaluate solutions for feasibility with application architecture.
+3.	Designed a scalable framework to implement the solution.
+4.	Wrote tools to test and analyze the performance improvement in different environments with varying loads. Fine tune implementation based on results. 
+5.	Design technical roadmap and guideline to achieve consistent performance improvement
+
+Impact
+1.	Tool supported graphical reporting for performance factors with different views which helped in identifying and evaluating different load conditions and eliminate outlier conditions.
+2.	About 80 % performance improvement was achieved in development environments and 60% in production with maximum loads.
+3.	Earned Vision Award and Kudos for individual contribution.
+4.	Worked closely with architecture team.
+5.	The solution was designed considering future technology changes and standards.
+
+
+
+
+6. Secure Communication between Mainframe and Clients		      April 2016 - Feb 2017			          
+Project summary
+The project was completed in two phases one for VB6 based Desktop client and another was java based enterprise application. The aim of this project was to ensure an end to end encryption of all communication between clients and Main Frame system. VB6 based desktop components posed key challenges that required research and several POCs to completed.
+
+Responsibilities as Software Engineer
+1.	Completed a critical POC to investigate the possibility of End to End encryption in Legacy VB based components. Estimated efforts for the complete project with all possible approaches.
+2.	Investigated possibility of converting a Legacy code from VB to C#.
+3.	Rewrite core logic from VB6 to C#.
+4.	Wrote a lightweight installer for the new desktop component.
+5.	Major contribution in automating the build process for new components.
+6.	Implement Secure Socket communication in existing java code to ensure secure communication between the enterprise application and mainframe.
+7.	Finetuned security policies in both application to match their behavior
+8.	Coordinate with several teams and stack holders to ensure all configurations are correct.  
+
+Impact
+1.	POC for VB6 based component was significant since technology is no longer supported and developer community is rare.
+2.	Contribution in driving technology change to latest C#.NET 
+3.	Build automation for these components ensured more streamlined deployments.
+
